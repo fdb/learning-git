@@ -22,3 +22,9 @@ Pancakes are delicious! Let's learn how to make them.
 - Poor a scoup of batter in the pan.
 - After 30 seconds, turn over the pancakes.
 - After another 30 seconds, get the pancake out of the pan.
+
+
+## Tips
+
+- Pancakes are nice with strawberries or ice cream! Experiment.
+- You can also make salty pancakes.
